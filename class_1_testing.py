@@ -7,3 +7,5 @@ This is a temporary script file.
 
 print("hello world")
 print("hello")
+a = 10
+print(a)
